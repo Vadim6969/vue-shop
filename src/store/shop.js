@@ -7,20 +7,6 @@ export default {
 				descr:
 					'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
 				img: require('../assets/img/1.png'),
-				gallery: [
-					{
-						name: 'Nike boots First',
-						img: require('../assets/img/1.png'),
-					},
-					{
-						name: 'Nike boots Two',
-						img: require('../assets/img/2.png'),
-					},
-					{
-						name: 'Nike boots Three',
-						img: require('../assets/img/3.png'),
-					},
-				],
 			},
 			{
 				id: 2,

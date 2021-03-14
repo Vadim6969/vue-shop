@@ -7,10 +7,12 @@
 		<div>
 			<img :src="product.img" :alt="product.title" />
 		</div>
+        
 	</div>
 </template>
 <script>
 	export default {
+		
 		data() {
 			return {
 				product: null,
